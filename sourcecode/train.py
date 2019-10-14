@@ -1,7 +1,7 @@
 """ script for training the MSG-GAN on given dataset """
 
 # Set to True if using in SageMaker
-USE_SAGEMAKER = False
+USE_SAGEMAKER = True
 
 import argparse
 
